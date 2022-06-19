@@ -1,0 +1,41 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+form input{
+    display: block;
+    margin: 15px auto;
+    border-radius: 20px;
+    padding: 7px;
+}
+.pregunta{
+ text-align: center;
+   
+}
+.botonsi{
+   justify-content: space-evenly;
+   text-decoration: none;
+    padding: 10px;
+    font-family: helvetica;
+    font-style: italic;
+    font-weight: 600;
+    font-size: 20px;
+    color: white;
+    background-color: blue;
+    border-radius: 6px;
+    border: 2px solid #0016b0;
+}
+.botonNo{
+    justify-content: space-evenly;
+    text-decoration: none;
+     padding: 10px;
+     font-family: helvetica;
+     font-style: italic;
+     font-weight: 600;
+     font-size: 20px;
+     color: white;
+     background-color: blue;
+     border-radius: 6px;
+     border: 2px solid #0016b0;
+ }
